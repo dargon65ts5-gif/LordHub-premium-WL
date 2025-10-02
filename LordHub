@@ -4,7 +4,7 @@ local plr = Players.LocalPlayer
  
 local whitelist = {
     ["rvjreivjerivgjfdf"] = true,
-    [""] = true,
+    ["Ennis_AlenPvPGods"] = true,
     [""] = true,
     [""] = true,
     [""] = true,
